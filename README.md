@@ -10,3 +10,16 @@ This system provides following Features:
 4. Admin can see all assigned lectures.
 5. Admin can see all Instructors.
 6. Instructor can see the Assigned Lectures to him. 
+
+Here are the credentials to access the dashboard.
+
+Admin Login:
+Username = 'root', Password = 'root'
+
+Instructor Login:
+Username = You will get it from Admin panel. under view instructors userID is a Username.
+Password = 'root' (For all Instructors)
+
+
+Hope you will like my Project. If you have any queries you can text me! Thanks.
+
